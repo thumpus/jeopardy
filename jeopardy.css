@@ -1,0 +1,45 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+
+table, th, td {
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid;
+  background-color: #001185;
+  
+  font-family: 'Bebas Neue', cursive;
+  text-align: center;
+  text-shadow: 1px 1px gray;
+}
+
+td {
+  width: 150px;
+  height: 100px;
+  color: yellow;
+}
+
+.cat{
+  color: #e1f1f2;
+}
+
+
+
+h1 {
+  color: silver;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+  text-shadow: 2px 2px whitesmoke;
+}
+
+h2 {
+  color: white;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+}
+body {
+  background-color: rgb(41, 41, 41);
+  text-align: center;
+}
