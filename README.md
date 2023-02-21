@@ -1,6 +1,7 @@
 # jeopardy
 
 Deployed at: http://wallis-jeopardy.surge.sh/
+Deployed using Surge.
 
 Static js app using the jservice API (http://jservice.io/).
 
